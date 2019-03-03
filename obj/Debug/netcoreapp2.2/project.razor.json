@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/planetsAndSpaceships.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

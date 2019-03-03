@@ -1,0 +1,11 @@
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/bin/Debug/netcoreapp2.2/planetsAndSpaceships.deps.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/bin/Debug/netcoreapp2.2/planetsAndSpaceships.runtimeconfig.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/bin/Debug/netcoreapp2.2/planetsAndSpaceships.runtimeconfig.dev.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/bin/Debug/netcoreapp2.2/planetsAndSpaceships.dll
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/bin/Debug/netcoreapp2.2/planetsAndSpaceships.pdb
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/obj/Debug/netcoreapp2.2/planetsAndSpaceships.csprojAssemblyReference.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/obj/Debug/netcoreapp2.2/planetsAndSpaceships.csproj.CoreCompileInputs.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/obj/Debug/netcoreapp2.2/planetsAndSpaceships.AssemblyInfoInputs.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/obj/Debug/netcoreapp2.2/planetsAndSpaceships.AssemblyInfo.cs
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/obj/Debug/netcoreapp2.2/planetsAndSpaceships.dll
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/planetsAndSpaceships/obj/Debug/netcoreapp2.2/planetsAndSpaceships.pdb
